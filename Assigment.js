@@ -1,4 +1,3 @@
-// A function that returns the two numbers such that they add up to target.
 let nums = [2, 7, 11, 15];
 
 let twoSum = function(nums, target) {
